@@ -1,0 +1,17 @@
+C:\Users\пк\Desktop\asdas\ComputerGraphics-lab2\ComputerGraphics-lab2\bin\Debug\ComputerGraphics-lab2.exe.config
+C:\Users\пк\Desktop\asdas\ComputerGraphics-lab2\ComputerGraphics-lab2\bin\Debug\ComputerGraphics-lab2.exe
+C:\Users\пк\Desktop\asdas\ComputerGraphics-lab2\ComputerGraphics-lab2\bin\Debug\ComputerGraphics-lab2.pdb
+C:\Users\пк\Desktop\asdas\ComputerGraphics-lab2\ComputerGraphics-lab2\bin\Debug\OpenTK.dll
+C:\Users\пк\Desktop\asdas\ComputerGraphics-lab2\ComputerGraphics-lab2\bin\Debug\OpenTK.GLControl.dll
+C:\Users\пк\Desktop\asdas\ComputerGraphics-lab2\ComputerGraphics-lab2\bin\Debug\OpenTK.pdb
+C:\Users\пк\Desktop\asdas\ComputerGraphics-lab2\ComputerGraphics-lab2\bin\Debug\OpenTK.xml
+C:\Users\пк\Desktop\asdas\ComputerGraphics-lab2\ComputerGraphics-lab2\bin\Debug\OpenTK.dll.config
+C:\Users\пк\Desktop\asdas\ComputerGraphics-lab2\ComputerGraphics-lab2\bin\Debug\OpenTK.GLControl.xml
+C:\Users\пк\Desktop\asdas\ComputerGraphics-lab2\ComputerGraphics-lab2\obj\Debug\ComputerGraphics-lab2.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\asdas\ComputerGraphics-lab2\ComputerGraphics-lab2\obj\Debug\ComputerGraphics_lab2.Form1.resources
+C:\Users\пк\Desktop\asdas\ComputerGraphics-lab2\ComputerGraphics-lab2\obj\Debug\ComputerGraphics_lab2.Properties.Resources.resources
+C:\Users\пк\Desktop\asdas\ComputerGraphics-lab2\ComputerGraphics-lab2\obj\Debug\ComputerGraphics-lab2.csproj.GenerateResource.cache
+C:\Users\пк\Desktop\asdas\ComputerGraphics-lab2\ComputerGraphics-lab2\obj\Debug\ComputerGraphics-lab2.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\asdas\ComputerGraphics-lab2\ComputerGraphics-lab2\obj\Debug\ComputerGraphics-lab2.csproj.CopyComplete
+C:\Users\пк\Desktop\asdas\ComputerGraphics-lab2\ComputerGraphics-lab2\obj\Debug\ComputerGraphics-lab2.exe
+C:\Users\пк\Desktop\asdas\ComputerGraphics-lab2\ComputerGraphics-lab2\obj\Debug\ComputerGraphics-lab2.pdb
